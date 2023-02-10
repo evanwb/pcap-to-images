@@ -33,8 +33,8 @@ def gen_imgs(filepath: str):
   os.system(f'mkdir {pcap_filename}')
   
   for k,v in sessions.items():
-    if not ("UDP" in k or "TCP" in k):
-    #if not ( "TCP" in k):
+    #if not ("UDP" in k or "TCP" in k):
+    if not ( "TCP" in k):
       continue
     if len(v) < 8:
       continue
