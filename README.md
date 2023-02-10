@@ -18,4 +18,4 @@ pip install -r requirements.txt
 python server.py
 ```
 
-server runs on [http://localhost:5555/]("http://localhost:5555/")
+server runs on [http://localhost:5555](http://localhost:5555)
