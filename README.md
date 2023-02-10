@@ -1,5 +1,5 @@
 # PCAP to Images
- This is a server that generate images from pcap files
+A simple server to generate images from pcap files
 
 ## Usage
 
