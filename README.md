@@ -27,7 +27,7 @@ python3 server.py
 
 The server runs on [http://localhost:5555](http://localhost:5555)
 
-upload your pcap file and click generate to download a zip file with the images
+Upload your pcap file and click generate to download a zip file with the images
 
 Images can also be generated from the cli
 
