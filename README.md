@@ -14,8 +14,8 @@ sh run.sh
 to run outside of docker
   
 ```
-pip install -r requirements.txt
-python server.py
+pip3 install -r requirements.txt
+python3 server.py
 ```
 
 the server runs on [http://localhost:5555](http://localhost:5555)
