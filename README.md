@@ -21,3 +21,9 @@ python server.py
 the server runs on [http://localhost:5555](http://localhost:5555)
 
 upload your pcap file and click generate to download a zip file with the images
+
+images can also be generated from the cli
+
+```
+curl -X POST -F file='@<input filename>'  http://localhost:5555/generate -o <output filename>.zip
+```
