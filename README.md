@@ -18,4 +18,6 @@ pip install -r requirements.txt
 python server.py
 ```
 
-server runs on [http://localhost:5555](http://localhost:5555)
+the server runs on [http://localhost:5555](http://localhost:5555)
+
+upload your pcap file and click generate to download a zip file with the images
