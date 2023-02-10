@@ -4,7 +4,7 @@
 ## Usage
 
 ```
-git clone https://github.com/evanwb/pcap-to-images.git
+git clone https://github.com/evanwb/pcap-to-images.git && cd pcap-to-images
 ```
 
 to start docker container
